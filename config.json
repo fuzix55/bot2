@@ -1,0 +1,22 @@
+{
+  "Discord_Prefix": ";",
+  "Discord_GuildId": "728497961822060555",
+  "Discord_SessionChannelId": "728661408484425738",
+  "PermissionLevels": {
+    "0": {
+      "Name": "User",
+      "Type": "RoleName",
+      "Role(s)": ["@everyone"]
+    },
+    "1": {
+      "Name": "Session Permissions",
+      "Type": "RoleName",
+      "Role(s)": ["Corporate Assistant", "HR", "SHR"]
+    },
+    "2": {
+      "Name": "Developer",
+      "Type": "UserId",
+      "UserId": "608782754448146452"
+    }
+  }
+}
